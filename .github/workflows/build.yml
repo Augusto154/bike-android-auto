@@ -8,25 +8,69 @@ on:
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Baixar código
         uses: actions/checkout@v4
+
+
+      - name: Instalar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
 
       - name: Instalar Flutter
         uses: subosito/flutter-action@v2
         with:
           channel: stable
+          cache: true
+
+
+      - name: Ver versão
+        run: |
+          flutter --version
+          java -version
+
+
+      - name: Limpar projeto
+        run: |
+          flutter clean
+
 
       - name: Baixar dependências
-        run: flutter pub get
+        run: |
+          flutter pub get
 
-      - name: Gerar APK
-        run: flutter build apk --release
 
-      - name: Salvar APK
+      - name: Ver problemas do projeto
+        run: |
+          flutter doctor -v
+
+
+      - name: Compilar APK Debug
+        run: |
+          flutter build apk --debug -v
+
+
+      - name: Compilar APK Release
+        run: |
+          flutter build apk --release -v
+
+
+      - name: Salvar APK Debug
         uses: actions/upload-artifact@v4
         with:
-          name: AndroidBike-APK
+          name: AndroidBike-debug
+          path: build/app/outputs/flutter-apk/app-debug.apk
+
+
+      - name: Salvar APK Release
+        uses: actions/upload-artifact@v4
+        with:
+          name: AndroidBike-release
           path: build/app/outputs/flutter-apk/app-release.apk
