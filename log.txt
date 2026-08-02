@@ -1,0 +1,161 @@
+[ +196 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [C:\src\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +570 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-07-23 10:56:21 -0700
+[   +7 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +26 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +38 ms] Skipping pub get: version match.
+[  +48 ms] Found plugin webview_flutter at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter-4.13.0\
+[   +3 ms] Found plugin webview_flutter_wkwebview at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_wkwebview-3.23.0\
+[   +4 ms] Found plugin webview_flutter_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-4.10.0\
+[   +2 ms] Found plugin url_launcher at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +1 ms] Found plugin url_launcher_windows at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.4\
+[   +3 ms] Found plugin url_launcher_web at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.1\
+[   +3 ms] Found plugin url_launcher_macos at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.2\
+[   +1 ms] Found plugin url_launcher_linux at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.1\
+[   +1 ms] Found plugin url_launcher_ios at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.3.3\
+[   +1 ms] Found plugin url_launcher_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.17\
+[   +2 ms] Found plugin geolocator at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator-13.0.4\
+[   +1 ms] Found plugin geolocator_windows at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_windows-0.2.5\
+[   +1 ms] Found plugin geolocator_web at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_web-4.1.4\
+[   +1 ms] Found plugin geolocator_apple at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_apple-2.3.14\
+[   +1 ms] Found plugin geolocator_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.6.2\
+[  +49 ms] Found plugin webview_flutter at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter-4.13.0\
+[   +1 ms] Found plugin webview_flutter_wkwebview at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_wkwebview-3.23.0\
+[   +2 ms] Found plugin webview_flutter_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-4.10.0\
+[   +1 ms] Found plugin url_launcher at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[        ] Found plugin url_launcher_windows at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.4\
+[   +1 ms] Found plugin url_launcher_web at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.1\
+[   +2 ms] Found plugin url_launcher_macos at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.2\
+[        ] Found plugin url_launcher_linux at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.1\
+[   +1 ms] Found plugin url_launcher_ios at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.3.3\
+[   +2 ms] Found plugin url_launcher_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.17\
+[   +3 ms] Found plugin geolocator at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator-13.0.4\
+[   +1 ms] Found plugin geolocator_windows at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_windows-0.2.5\
+[   +1 ms] Found plugin geolocator_web at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_web-4.1.4\
+[   +1 ms] Found plugin geolocator_apple at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_apple-2.3.14\
+[        ] Found plugin geolocator_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.6.2\
+[  +18 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +21 ms] Found plugin webview_flutter at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter-4.13.0\
+[        ] Found plugin webview_flutter_wkwebview at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_wkwebview-3.23.0\
+[   +2 ms] Found plugin webview_flutter_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-4.10.0\
+[        ] Found plugin url_launcher at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[        ] Found plugin url_launcher_windows at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.4\
+[   +1 ms] Found plugin url_launcher_web at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.1\
+[   +1 ms] Found plugin url_launcher_macos at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.2\
+[        ] Found plugin url_launcher_linux at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.1\
+[        ] Found plugin url_launcher_ios at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.3.3\
+[        ] Found plugin url_launcher_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.17\
+[   +2 ms] Found plugin geolocator at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator-13.0.4\
+[   +1 ms] Found plugin geolocator_windows at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_windows-0.2.5\
+[   +1 ms] Found plugin geolocator_web at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_web-4.1.4\
+[        ] Found plugin geolocator_apple at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_apple-2.3.14\
+[        ] Found plugin geolocator_android at C:\Users\augus\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.6.2\
+[  +14 ms] Generating C:\Users\augus\Documents\Codex\2026-08-01\referenced-chatgpt-conversation-this-is-an-2\AndroidBike\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[        ] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[  +46 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[ +598 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "21.0.8" 2025-07-15
+           OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+           OpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)
+[   +1 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[  +93 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "21.0.8" 2025-07-15
+           OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+           OpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)
+[   +6 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[ +593 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[        ] openjdk 21.0.8 2025-07-15
+           OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+           OpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)
+[        ] Version of Java is different than impacted version, no migration attempted.
+[   +1 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[   +2 ms] The developer has already configured the Built-In Kotlin flag, skipping migration.
+[        ] The developer has already configured the new DSL flag, skipping migration.
+[   +2 ms] Using gradle from C:\Users\augus\Documents\Codex\2026-08-01\referenced-chatgpt-conversation-this-is-an-2\AndroidBike\android\gradlew.bat.
+[   +4 ms] LocalFile: 'C:\Users\augus\Documents\Codex\2026-08-01\referenced-chatgpt-conversation-this-is-an-2\AndroidBike\android\build.gradle' doesn't provide an AGP version. Checking settings.
+[        ] LocalFile: 'C:\Users\augus\Documents\Codex\2026-08-01\referenced-chatgpt-conversation-this-is-an-2\AndroidBike\android\settings.gradle' provides AGP version: 9.0.1
+[   +5 ms] Running Gradle task 'assembleDebug'...
+[        ] executing: [C:\Users\augus\Documents\Codex\2026-08-01\referenced-chatgpt-conversation-this-is-an-2\AndroidBike\android/] C:\Users\augus\Documents\Codex\2026-08-01\referenced-chatgpt-conversation-this-is-an-2\AndroidBike\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuNDQuOA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049MDU4ZTBhZjJjMg==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MGNkNjEwNzE3Yg==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4y -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[ +570 ms] Initialized native services in: C:\Users\augus\.gradle\native
+[   +1 ms] Initialized jansi services in: C:\Users\augus\.gradle\native
+[ +325 ms] Removing 0 daemon stop events from registry
+[        ] Previous Daemon (32400) stopped at Sat Aug 01 22:18:27 BRT 2026 after running out of JVM Metaspace
+[        ] Previous Daemon (12392) stopped at Sat Aug 01 22:16:39 BRT 2026 by user or operating system
+[        ] Previous Daemon (37568) stopped at Sat Aug 01 22:16:40 BRT 2026 by user or operating system
+[        ] Starting a Gradle Daemon, 1 busy and 3 stopped Daemons could not be reused, use --status for details
+[        ] Starting process 'Gradle build daemon'. Working directory: C:\Users\augus\.gradle\daemon\9.1.0 Command: C:\Program Files\Android\Android Studio\jbr\bin\java.exe --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.xml/javax.xml.namespace=ALL-UNNAMED --add-opens=java.base/java.time=ALL-UNNAMED -XX:MaxMetaspaceSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1G -Dfile.encoding=UTF-8 -Duser.country=BR -Duser.language=pt -Duser.variant -cp C:\Users\augus\.gradle\wrapper\dists\gradle-9.1.0-all\7wzd0jkjit61aq2p43wpjgij9\gradle-9.1.0\lib\gradle-daemon-main-9.1.0.jar -javaagent:C:\Users\augus\.gradle\wrapper\dists\gradle-9.1.0-all\7wzd0jkjit61aq2p43wpjgij9\gradle-9.1.0\lib\agents\gradle-instrumentation-agent-9.1.0.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 9.1.0
+[        ] Successfully started process 'Gradle build daemon'
+[+1897 ms] An attempt to start the daemon took 1.857 secs.
+[  +93 ms] The client will now receive all logging from the daemon (pid: 14928). The daemon log file: C:\Users\augus\.gradle\daemon\9.1.0\daemon-14928.out.log
+[        ] Starting build in new daemon [memory: 1 GiB]
+[+50507 ms] Running 1 shutdown hook
+[        ] Shutdown hooks complete
+[ +189 ms] exiting with code 0
+Deseja finalizar o arquivo em lotes (S/N)? 
+^CO sistema n∆o pode abrir o dispositivo ou arquivo especificado.
